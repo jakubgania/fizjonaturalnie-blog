@@ -1,6 +1,6 @@
 npm run generate
 
-cd build
+cd dist
 
 git init
 git add -A

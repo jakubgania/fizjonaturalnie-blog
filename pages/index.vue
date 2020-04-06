@@ -2,7 +2,7 @@
   <div class="container">
     <div style="">
       <div class="about-section">
-        <img :src="profileImage" alt="" class="profile-image">
+        <img :src="profileImage" alt="Anna Maciejewska - zdjęcie profilowe" class="profile-image">
         <div>
           <h2>Cześć!</h2>
           <p class="about-me">
@@ -72,12 +72,52 @@ import profileImage from './../assets/images/hero.jpg'
     //   imports.sort((a, b) =>
     //     moment(b.attributes.date, 'DD/MM/YYYY').diff(moment(a.attributes.date, 'DD/MM/YYYY'))
     //   )
-        console.log(imports)
       return { posts: imports }
     },
     data() {
       return {
         profileImage
+      }
+    },
+    head() {
+      return {
+        title: 'fizjonaturalnie.pl | Anna Maciejewska',
+        meta: [
+          {
+            hid: 'description',
+            name: 'description',
+            content: 'description'
+          },
+          {
+            name: 'keywords',
+            content: ''
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: ''
+          },
+          {
+            hid: 'og:url',
+            property: 'og:url',
+            content: ''
+          },
+          {
+            hid: 'og:description',
+            property: 'og:description',
+            content: ''
+          },
+          {
+            hid: 'og:image',
+            property: 'og:image',
+            content: ''
+          },
+          {
+            hid: 'twitter:image',
+            property: 'twitter:image',
+            content: ''
+          }
+        ]
       }
     }
   }

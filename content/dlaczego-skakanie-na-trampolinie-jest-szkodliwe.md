@@ -10,7 +10,7 @@ tags:
   - markdown
 ---
 
-Ah te trampoliny... kto o nich w dzieciństwie nie marzył? Świetna zabawa z ruchem w jednym. Od całkiem niedawna trampoliny pojawiły się w siłowniach,
+Ach te trampoliny... kto o nich w dzieciństwie nie marzył? Świetna zabawa z ruchem w jednym. Od całkiem niedawna trampoliny pojawiły się w siłowniach,
 zaczęto też organizować na nich zajęcia fitness. Bardzo dobry pomysł na efektywne zrzucenie kilogramów, znaczny wzrost kondycji fizycznej organizmu,
 a przy tym niezła frajda. Ale czy na pewno ta forma ćwiczeń jest dla nas bezpieczna?
 

@@ -4,7 +4,9 @@
       <div class="about-section">
         <img :src="profileImage" alt="Anna Maciejewska - zdjęcie profilowe" class="profile-image">
         <div>
-          <h2>Cześć!</h2>
+          <h2>
+            Cześć!
+          </h2>
           <p class="about-me">
             Nazywam się Anna Maciejewska i na co dzień studiuję fizjoterapię 
             w formie jednolitych studiów magisterskich na Akademii Wychowania Fizycznego 
@@ -15,25 +17,35 @@
           </p>
           <div class="hashtag-section">
             <div class="hashtag-item">
-               <span class="hashtag">#fizjoterapia</span>
+              <span class="hashtag">
+                #fizjoterapia
+              </span>
             </div>
             <div class="hashtag-item">
-              <span class="hashtag">#zdrowie</span>
+              <span class="hashtag">
+                #zdrowie
+              </span>
             </div>
             <div class="hashtag-item">
-              <span class="hashtag">#fitness</span>
+              <span class="hashtag">
+                #fitness
+              </span>
             </div>
           </div>
           <div class="citation-section">
             <p class="citation">
               "Ci, którzy myślą, że nie mają czasu na sport, prędzej czy później <br> będą musieli znaleźć czas na chorobę"
             </p>
-            <p style="margin-top:10px;font-weight: bold;">Edward Stanley</p>
+            <p style="margin-top:10px;font-weight: bold;">
+              Edward Stanley
+            </p>
           </div>
         </div>
       </div>
       <div class="posts-section">
-        <h2 style="color:#526488;">Posty:</h2>
+        <h2 style="color:#526488;">
+          Posty:
+        </h2>
         <div v-for="post in posts" :key="post.attributes.title" style="margin-top: 30px;">
           <h2 class="post-title-h2">
             <nuxt-link :to="'/blog' + post.attributes.slug" class="post-title">
@@ -53,9 +65,13 @@
         </div>
       </div>
       <div class="contact-section">
-        <h2 style="color:#526488;">Kontakt</h2>
+        <h2 style="color:#526488;">
+          Kontakt
+        </h2>
         <div style="margin-top: 26px;">
-          <a href="mailto:maciejewska2606@gmail.com" style="color: #f06292;text-decoration: none;padding-top: 20px;">maciejewska2606@gmail.com</a>
+          <a href="mailto:maciejewska2606@gmail.com" style="color: #f06292;text-decoration: none;padding-top: 20px;">
+            maciejewska2606@gmail.com
+          </a>
         </div>
       </div>
     </div>
@@ -90,17 +106,17 @@ import profileImage from './../assets/images/hero.jpg'
           },
           {
             name: 'keywords',
-            content: ''
+            content: 'fizjoterapia, fitness, sport, zdrowie, blog'
           },
           {
             hid: 'og:title',
             property: 'og:title',
-            content: ''
+            content: 'fizjonaturalnie.pl | Anna Maciejewska'
           },
           {
             hid: 'og:url',
             property: 'og:url',
-            content: ''
+            content: 'https://fizjonaturalnie.pl'
           },
           {
             hid: 'og:description',
@@ -110,12 +126,12 @@ import profileImage from './../assets/images/hero.jpg'
           {
             hid: 'og:image',
             property: 'og:image',
-            content: ''
+            content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.png'
           },
           {
             hid: 'twitter:image',
             property: 'twitter:image',
-            content: ''
+            content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.png'
           }
         ]
       }

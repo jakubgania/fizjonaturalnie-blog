@@ -102,7 +102,7 @@ import profileImage from './../assets/images/hero.jpg'
           {
             hid: 'description',
             name: 'description',
-            content: 'description'
+            content: 'Zapraszam na moją stronę fizjonaturalnie.pl - jest tutaj blog poruszający tematykę fizjoterapii, zdrowia i sportu.'
           },
           {
             name: 'keywords',
@@ -121,7 +121,7 @@ import profileImage from './../assets/images/hero.jpg'
           {
             hid: 'og:description',
             property: 'og:description',
-            content: ''
+            content: 'Zapraszam na moją stronę fizjonaturalnie.pl - jest tutaj blog poruszający tematykę fizjoterapii, zdrowia i sportu.'
           },
           {
             hid: 'og:image',

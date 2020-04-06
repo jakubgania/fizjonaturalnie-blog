@@ -1,6 +1,8 @@
 <template>
   <div class="toolbar-header-container">
-    <span class="logo">fizjonaturalnie</span>
+    <span class="logo">
+      fizjonaturalnie
+    </span>
   </div>
 </template>
 
@@ -31,7 +33,6 @@
   .logo {
     font-size: 2.2rem;
     letter-spacing: 6px;
-    /* font-weight: bold; */
   }
 }
 </style>

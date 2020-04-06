@@ -34,12 +34,24 @@
     },
     head() {
       return {
-        title: this.post.attributes.title,
-        meta: [{
+        title: this.post.attributes.title + ' | fizjonaturalnie.pl',
+        meta: [
+        {
           hid: 'description',
           name: 'description',
           content: this.post.attributes.short
-        }],
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: this.post.attributes.title + ' | fizjonaturalnie.pl'
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: this.post.attributes.short
+        }
+        ],
         link: [{
           rel: 'canonical',
           href: 'https://fizjonaturalnie.pl/blog' + this.post.attributes.slug

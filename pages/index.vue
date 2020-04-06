@@ -73,6 +73,14 @@
             maciejewska2606@gmail.com
           </a>
         </div>
+        <div style="margin-top: 26px;height:40px;">
+          <a href="https://www.linkedin.com/in/anna-maciejewska-7847b0163/" target="_blank" class="social-icons">
+            <font-awesome-icon :icon="['fab', 'linkedin-in']"/>
+          </a>
+         <a href="https://www.instagram.com/physio_ann/" target="_blank" class="social-icons">
+          <font-awesome-icon :icon="['fab', 'instagram']"/>
+         </a>
+        </div>
       </div>
     </div>
   </div>
@@ -181,8 +189,8 @@ body {
 }
 .citation-section {
   margin-top: 80px;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  border-top: 1px solid #bfbfbf;
+  border-bottom: 1px solid #bfbfbf;
   padding-top: 14px;
   padding-bottom: 14px;
 }
@@ -216,6 +224,13 @@ body {
 }
 .hashtag-section {
   display:flex;margin-top:60px;
+}
+.social-icons {
+  color:#000;font-size:24px;margin-left:10px;margin-right:10px;
+}
+.social-icons:hover {
+  color: #808080;
+  transition: color 0.3s ease;
 }
 
 @media only screen and (max-width: 960px) {
@@ -258,6 +273,7 @@ body {
     margin-bottom: 40px;
   }
   .contact-section {
+    margin-top: 60px;
     margin-bottom: 40px;
   }
 }

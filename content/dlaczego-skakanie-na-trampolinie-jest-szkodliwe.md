@@ -3,7 +3,7 @@ title: Dlaczego skakanie na trampolinie jest szkodliwe?
 slug: /dlaczego-skakanie-na-trampolinie-jest-szkodliwe
 short: Każda forma aktywności fizycznej ma swoje plusy i minusy. Najważniejsza jest technika wykonywanych ćwiczeń, która warunkuje to, czy jest dla nas bezpieczna.
 date: 04/04/2020
-image: /images/my-featured-image.jpg
+image: '/images/pelvic.png'
 tags:
   - code
   - nuxt

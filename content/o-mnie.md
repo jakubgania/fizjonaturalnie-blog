@@ -3,7 +3,7 @@ title: O mnie
 slug: /o-mnie
 short: Witaj! Dziekuję Ci, że postanowiłaś/eś zajrzeć na moją stronę. 
 date: 04/04/2020
-image: /images/my-featured-image.jpg
+image: /images/omnie.jpg
 tags:
   - code
   - nuxt

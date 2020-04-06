@@ -13,24 +13,30 @@
             sieci Yves Rocher, a dzięki temu rozwijam swoje zainteresowania w tematyce roślinnej
             pielęgnacji ciała.
           </p>
-          <div style="display:flex;margin-top:60px;">
-            <div style="width: 33.33%;text-align:center;">
+          <div class="hashtag-section">
+            <div class="hashtag-item">
                <span class="hashtag">#fizjoterapia</span>
             </div>
-            <div style="width: 33.33%;text-align:center;">
+            <div class="hashtag-item">
               <span class="hashtag">#zdrowie</span>
             </div>
-            <div style="width: 33.33%;text-align:center;">
+            <div class="hashtag-item">
               <span class="hashtag">#fitness</span>
             </div>
+          </div>
+          <div class="citation-section">
+            <p class="citation">
+              "Ci, którzy myślą, że nie mają czasu na sport, prędzej czy później <br> będą musieli znaleźć czas na chorobę"
+            </p>
+            <p style="margin-top:10px;font-weight: bold;">Edward Stanley</p>
           </div>
         </div>
       </div>
       <div class="posts-section">
         <h2 style="color:#526488;">Posty:</h2>
         <div v-for="post in posts" :key="post.attributes.title" style="margin-top: 30px;">
-          <h2>
-            <nuxt-link :to="'/blog' + post.attributes.slug" style="color: #f06292;text-decoration:none;">
+          <h2 class="post-title-h2">
+            <nuxt-link :to="'/blog' + post.attributes.slug" class="post-title">
               {{post.attributes.title}}
             </nuxt-link>
           </h2>
@@ -40,10 +46,16 @@
           </p>
 
           <p style="padding-top: 14px;">
-            <nuxt-link :to="'/blog' + post.attributes.slug" style="color: #f06292;text-decoration: none;">
+            <nuxt-link :to="'/blog' + post.attributes.slug" class="read-more">
               Czytaj więcej
             </nuxt-link>
           </p>
+        </div>
+      </div>
+      <div class="contact-section">
+        <h2 style="color:#526488;">Kontakt</h2>
+        <div style="margin-top: 26px;">
+          <a href="mailto:maciejewska2606@gmail.com" style="color: #f06292;text-decoration: none;padding-top: 20px;">maciejewska2606@gmail.com</a>
         </div>
       </div>
     </div>
@@ -67,7 +79,7 @@ import profileImage from './../assets/images/hero.jpg'
       return {
         profileImage
       }
-    },
+    }
   }
 </script>
 
@@ -103,5 +115,94 @@ body {
   font-size: 24px;
   color: #3399ff;
   font-style: italic;
+  transition: letter-spacing 0.5s ease;
+  cursor: default;
+  letter-spacing: 1px;
+}
+.hashtag:hover {
+  letter-spacing: 2px;
+  transition: letter-spacing 0.5s ease;
+}
+.citation-section {
+  margin-top: 80px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.citation {
+  font-size: 24px;
+  font-style: italic;
+}
+.post-title {
+  color: #f06292;
+  text-decoration:none;
+  transition: color 0.2s ease;
+}
+.post-title:hover {
+  color: #3399ff;
+  transition: color 0.2s ease;
+}
+.read-more {
+  color: #f06292;text-decoration: none;
+  transition: color 0.2s ease;
+}
+.read-more:hover {
+  color: #3399ff;
+  transition: color 0.2s ease;
+}
+.contact-section {
+  margin-bottom: 80px;
+  text-align: center;
+}
+.hashtag-item {
+  width: 33.33%;text-align:center;
+}
+.hashtag-section {
+  display:flex;margin-top:60px;
+}
+
+@media only screen and (max-width: 960px) {
+  .container {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .profile-image {
+    width: 100%;
+  }
+  .hashtag-section {
+    display: block;
+  }
+  .hashtag-item {
+    width: 100%;
+  }
+  .hashtag-item:nth-child(1), .hashtag-item:nth-child(2) {
+    margin-bottom: 10px;
+  }
+  .post-title-h2 {
+    font-size: 20px;
+  }
+  .citation {
+    font-size: 20px;
+  }
+  .citation br {
+    display: none;
+  }
+  .posts-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .contact-section {
+    margin-bottom: 40px;
+  }
 }
 </style>

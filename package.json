@@ -1,14 +1,21 @@
 {
   "name": "nuxt-blog",
   "version": "1.0.0",
-  "description": "My doozie Nuxt.js project",
+  "description": "fizjonaturalnie blog",
   "author": "jakubgania",
   "private": true,
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "4000"
+    }
+  },
   "scripts": {
-    "dev": "nuxt",
+    "dev": "start chrome --new-window --incognito http://192.168.0.13:4000 && nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",

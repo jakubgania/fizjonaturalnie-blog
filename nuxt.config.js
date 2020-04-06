@@ -3,11 +3,26 @@ const glob = require('glob')
 
 const markdownPaths = ['blog']
 
+const dynamicRoutes = getDynamicPaths({
+  '/blog': '*.md'
+})
+
 export default {
   mode: 'universal',
   generate: {
-    routes: dynamicMarkdownRoutes()
+    routes: dynamicRoutes
   },
+  // generate: {
+  //   routes: function() {
+  //     const fs = require('fs')
+  //     return fs.readdirSync('./content').map(file => {
+  //       return {
+  //         route: `/blog/${file}`,
+  //         payload: require(`./content/${file}`)
+  //       }
+  //     })
+  //   }
+  // },
   /*
   ** Headers of the page
   */
@@ -41,6 +56,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    { src: '~plugins/ga.js', mode: 'client' }
   ],
   /*
   ** Nuxt.js dev-modules
@@ -76,7 +92,6 @@ export default {
     */
     extend (config, ctx) {
       // add frontmatter-markdown-loader
-      // add frontmatter-markdown-loader
       config.module.rules.push(
         {
           test: /\.md$/,
@@ -93,6 +108,17 @@ function dynamicMarkdownRoutes() {
     ...markdownPaths.map(mdPath => {
       return glob.sync(`${mdPath}/*.md`, { cwd: 'content' })
         .map(filepath => `${mdPath}/${path.basename(filepath, '.md')}`);
+    })
+  );
+}
+
+function getDynamicPaths(urlFilepathTable) {
+  return [].concat(
+    ...Object.keys(urlFilepathTable).map(url => {
+      var filepathGlob = urlFilepathTable[url];
+      return glob
+        .sync(filepathGlob, { cwd: 'content' })
+        .map(filepath => `${url}/${path.basename(filepath, '.md')}`);
     })
   );
 }

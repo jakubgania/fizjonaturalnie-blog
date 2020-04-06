@@ -2,6 +2,8 @@ npm run generate
 
 cd dist
 
+echo "fizjonaturalnie.pl" > CNAME
+
 git init
 git add -A
 git commit -m 'deploy'

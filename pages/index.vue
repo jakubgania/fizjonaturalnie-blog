@@ -126,12 +126,12 @@ import profileImage from './../assets/images/hero.jpg'
           {
             hid: 'og:image',
             property: 'og:image',
-            content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.png'
+            content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.PNG'
           },
           {
             hid: 'twitter:image',
             property: 'twitter:image',
-            content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.png'
+            content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.PNG'
           }
         ]
       }

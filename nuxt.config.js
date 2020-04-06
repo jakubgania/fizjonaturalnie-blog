@@ -1,8 +1,6 @@
 const path = require("path");
 const glob = require('glob')
 
-const markdownPaths = ['blog']
-
 const dynamicRoutes = getDynamicPaths({
   '/blog': '*.md'
 })
@@ -57,7 +55,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.png'
+        content: 'https://fizjonaturalnie.pl/fizjonaturalnie-blog-logo.PNG'
       }
     ],
     link: [
@@ -75,7 +73,7 @@ export default {
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: '#fff' },
+  loading: { color: '#ff9966' },
   /*
   ** Global CSS
   */

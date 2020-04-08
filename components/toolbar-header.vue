@@ -29,6 +29,12 @@
   transition: letter-spacing 1s ease;
 }
 
+@media only screen and (max-width: 960px) {
+  .logo {
+    font-size: 3.4rem;
+    letter-spacing: 8px;
+  }
+}
 @media only screen and (max-width: 600px) {
   .logo {
     font-size: 2.2rem;

@@ -4,6 +4,7 @@ slug: /o-mnie
 short: Witaj! Dziekuję Ci, że postanowiłaś/eś zajrzeć na moją stronę. 
 date: 04/04/2020
 image: /images/omnie.jpg
+number: 1
 tags:
   - code
   - nuxt

@@ -43,7 +43,7 @@
         </div>
       </div>
       <div class="posts-section">
-        <h2 style="color:#526488;">
+        <h2 style="color:#526488;" id="posty">
           Posty:
         </h2>
         <div v-for="post in posts" :key="post.attributes.title" style="margin-top: 30px;">
@@ -96,6 +96,9 @@ import profileImage from './../assets/images/hero.jpg'
     //   imports.sort((a, b) =>
     //     moment(b.attributes.date, 'DD/MM/YYYY').diff(moment(a.attributes.date, 'DD/MM/YYYY'))
     //   )
+      imports.sort((a,b) => 
+        {return b.attributes.number - a.attributes.number }
+      )
       return { posts: imports }
     },
     data() {
@@ -236,8 +239,8 @@ body {
 @media only screen and (max-width: 960px) {
   .container {
     margin-top: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 }
 

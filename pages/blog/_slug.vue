@@ -140,6 +140,9 @@
     margin-left: 10px;
     margin-right: 10px;
   }
+  .content p img {
+    max-width: 100%;
+  }
   .title {
     text-align: center;
     font-size: 26px;

@@ -12,7 +12,7 @@ tags:
 Czy prawidłowa postawa siedząca w ogóle istnieje? Według mnie nie, ponieważ ciało ludzkie stworzone jest do ruchu. 
 W zachodniej kulturze krzesła są wszechobecne, stąd zakładamy, że siedzenie na nich jest naturalne. Jednakże ludzie 
 pierwotni nie siedzieli na krzesłach, a ich życie toczyło się w nieustannym ruchu - chodzili, polowali i zbierali pożywienie. 
-Do zadań domowych klękali lub kucali, a kiedy byli zmęczeni, kładli się. Nie mieli krzeseł ani - prawdopodobnie-
+Do zadań domowych klękali lub kucali, a kiedy byli zmęczeni, kładli się. Nie mieli krzeseł ani - prawdopodobnie -
 bólu pleców.
 
 &nbsp;
@@ -91,8 +91,8 @@ W krzesłach, w których siedzisko przylega do oparcia, oparcie wypycha pośladk
 przednią część siedziska. To z kolei odchyla miednicę do tyłu i sprawia, że ciężar ciała spoczywa na kości krzyżowej. Uniesiona
 przednia krawędź niektórych krzeseł ma zapobiegać takiemu przesuwaniu się, ale podobna taktyka jedynie zwiększa tyłopochylenie
 miednicy, ponieważ unosi uda. 
-- Dopasuj oparcie tak, by wspierało miednicę, a nie lędźwie (Oparcie lub poduszka podpierająca lędźwie ustaw na dole, tak by 
-dobrze podpierało kość krzyżową. To da podparcie miednicy, która jest trzonem w pozycji siedzącej. Kiedy kość krzyżowa jest
+- Dopasuj oparcie tak, by wspierało miednicę, a nie lędźwie (Oparcie lub poduszkę podpierającą lędźwie ustaw na dole, tak by 
+dobrze podpierała kość krzyżową. To da podparcie miednicy, która jest trzonem w pozycji siedzącej. Kiedy kość krzyżowa jest
 podparta, kręgosłup automatycznie się unosi. Podpieranie lędźwi odciąża tylko kręgosłup, a nie miednicę). 
 - Jeśli zdecydujesz się na zakup ergonomicznego krzesła, upewnij się, że sklep oferuje możliwość zwrotu towaru. Nie dowiesz się, 
 czy krzesło jest dobrze dopasowane, dopóki na nim nie usiądziesz i chwilę nie popracujesz. 

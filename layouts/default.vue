@@ -1,5 +1,9 @@
 <template>
   <div>
+    <client-only>
+      <portal-rules-alert-component />
+    </client-only>
+
     <toolbar-header-component />
 
     <nuxt />
@@ -11,11 +15,13 @@
 <script>
 import ToolbarHeaderComponent from '@/components/toolbar-header'
 import FooterComponent from '@/components/footer'
+import PortalRulesAlertComponent from '@/components/portal-rules-alert'
 
 export default {
   components: {
     ToolbarHeaderComponent,
-    FooterComponent
+    FooterComponent,
+    PortalRulesAlertComponent
   }
 }
 </script>
@@ -40,5 +46,17 @@ html {
 *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0;
+  background-color: #fff;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 0;
+  background-color: #3399ff;
 }
 </style>

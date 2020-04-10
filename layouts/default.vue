@@ -26,6 +26,7 @@ export default {
 html {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
+  /* scroll-behavior: smooth; */
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;

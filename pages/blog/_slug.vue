@@ -92,6 +92,9 @@
   color: #3399ff;
   transition: color 0.2s ease;
 }
+.content p img {
+  max-width: 740px;
+}
 .title {
   text-align: left;
 }

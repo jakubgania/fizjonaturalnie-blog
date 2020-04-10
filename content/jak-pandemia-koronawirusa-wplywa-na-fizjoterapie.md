@@ -1,5 +1,5 @@
 ---
-title: Jak pandemia koronawirusa wpływa na fizjoterapię ?
+title: Jak pandemia koronawirusa wpływa na fizjoterapię?
 slug: /jak-pandemia-koronawirusa-wplywa-na-fizjoterapie
 short: Panująca już od niespełna miesiąca w Polsce pandemia wirusa SARS-CoV-2, który wywołuje chorobę COVID-19 odcisnął już ogromne piętno na gospodarce, całej służbie zdrowia i na ludzkiej psychice.
 date: 07/04/2020

@@ -9,9 +9,15 @@ tags:
     - siedzenie
 ---
 
-Czy prawidłowa postawa siedząca w ogóle istnieje? Według mnie nie, ponieważ ciało ludzkie stworzone jest do ruchu. 
-W zachodniej kulturze krzesła są wszechobecne, stąd zakładamy, że siedzenie na nich jest naturalne. Jednakże ludzie 
-pierwotni nie siedzieli na krzesłach, a ich życie toczyło się w nieustannym ruchu - chodzili, polowali i zbierali pożywienie. 
+&nbsp;
+
+### Czy prawidłowa postawa siedząca w ogóle istnieje?
+
+&nbsp;
+
+Według mnie nie, ponieważ ciało ludzkie stworzone jest do ruchu. W zachodniej kulturze krzesła są
+wszechobecne, stąd zakładamy, że siedzenie na nich jest naturalne. Jednakże ludzie  pierwotni nie
+siedzieli na krzesłach, a ich życie toczyło się w nieustannym ruchu - chodzili, polowali i zbierali pożywienie. 
 Do zadań domowych klękali lub kucali, a kiedy byli zmęczeni, kładli się. Nie mieli krzeseł ani - prawdopodobnie -
 bólu pleców.
 
@@ -50,7 +56,10 @@ podparcia, stąd właściwe krzesło może znacznie poprawić jakość siedzenia
 
 &nbsp;
 
-Czy w dzisiejszych czasach produkowane są krzesła odpowiednie dla zdrowia?
+### Czy w dzisiejszych czasach produkowane są krzesła odpowiednie dla zdrowia?
+
+&nbsp;
+
 Niestety, projekty nowoczesnych krzeseł biurowych wcielają zasadę opartą na zastosowaniu szerokiego kąta poprzez 
 ustawienie oparcia daleko od siedziska. Wynikająca z tego pozycja półleżąca sprawia, że osoba wysuwa szyję do przodu,
 by utrzymać prosto głowę, co z kolei nadmiernie obciąża mięśnie szyi. Często projektanci rozwiązują ten problem przez
@@ -77,7 +86,7 @@ a kręgosłup odwdzięczy się dobrą kondycją.
 
 &nbsp;
 
-Jeśli masz możliwość wyboru krzesła w miejscu pracy, czy też w domu, koniecznie weź pod uwagę poniższe czynniki:
+### Jeśli masz możliwość wyboru krzesła w miejscu pracy, czy też w domu, koniecznie weź pod uwagę poniższe czynniki:
 
 &nbsp;
 
@@ -112,7 +121,7 @@ podnóżek, aby je ugruntować.
 
 &nbsp;
 
-Czy siedzenie na piłce jest zdrowe?
+### Czy siedzenie na piłce jest zdrowe?
 
 &nbsp;
 
@@ -124,7 +133,7 @@ siedząc na zwykłym krześle.
 
 &nbsp;
 
-Jak siedzieć w fotelu samochodowym?
+### Jak siedzieć w fotelu samochodowym?
 
 &nbsp;
 
@@ -146,7 +155,10 @@ ustawienia ciała był dyktowany samopoczuciem.
 
 &nbsp;
 
-Na sam koniec jeszcze mała sztuczka do praktycznego wykorzystania:
+### Na sam koniec jeszcze mała sztuczka do praktycznego wykorzystania:
+
+&nbsp;
+
 Kiedy w pracy masz chwilę przerwy, przebywasz na spotkaniu towarzyskim lub kiedy jesteś sam/a, możesz się oprzeć o oparcie krzesła, ale naucz się 
 to robić, nie szkodząc dnu miednicy. Sztuczka polega na tym, że należy oprzeć się bez odchylania miednicy do tyłu i prostowania lędźwi. Możesz to 
 zrobić, odchylając się bezpośrednio z bioder. Ta czynność jest odwróćeniem tego, co robiłeś/aś, gdy pochylałeś/aś się, by wykonać jakąś czynność. 

@@ -11,20 +11,30 @@ tags:
   - markdown
 ---
 
+&nbsp;
+
 Ach te trampoliny... kto o nich w dzieciństwie nie marzył? Świetna zabawa z ruchem w jednym. Od całkiem niedawna trampoliny pojawiły się w siłowniach,
 zaczęto też organizować na nich zajęcia fitness. Bardzo dobry pomysł na efektywne zrzucenie kilogramów, znaczny wzrost kondycji fizycznej organizmu,
 a przy tym niezła frajda. Ale czy na pewno ta forma ćwiczeń jest dla nas bezpieczna?
 
 &nbsp;
 
-Każda forma aktywności fizycznej ma swoje plusy i minusy. Najważniejsza jest technika wykonywanych ćwiczeń, która warunkuje to, czy jest dla nas bezpieczna. 
+### Każda forma aktywności fizycznej ma swoje plusy i minusy.
+
+&nbsp;
+
+Najważniejsza jest technika wykonywanych ćwiczeń, która warunkuje to, czy jest dla nas bezpieczna. 
 W przypadku skakania na trampolinie, a stricte prowadzonych na nich zajęć fitness - instruktor doskonale wie jak wygląda prawidłowa technika. Na takie
 zajęcia najczęściej przychodzą osoby, które nie są przeszkolone z tej dziedziny. Niestety nie wiedzą one, że w trakcie takiego treningu nasz tułów nie może poruszać
 się w przestrzeni, a skakać powinny tylko nogi.
 
 &nbsp;
 
-Co daje nam błędna technika i brak dostatecznej świadomości ciała? Z pewnością oddziałowuje to negatywnie na nasze 
+### Co daje nam błędna technika i brak dostatecznej świadomości ciała?
+
+&nbsp;
+
+Z pewnością oddziałowuje to negatywnie na nasze 
 dno miednicy, które można zdefiniować jako hamak dla naszych narządów wewnętrznych, który jest rozpięty między nogami. Teraz troszkę anatomii :-). Jego granice wyznaczają cztery 
 charakterystyczne kości - dwie kości kulszowe, kość łonowa i kość ogonowa. Przebiegający tam pas mięśni dzieli je na dwa trójkąty. Przedni nazywa się 
 "trójkątem moczowo-płciowym", tylny "trójkątem odbytniczym". Dno miednicy przenikają: cewka moczowa, pochwa oraz odbytnica, dlatego stanowi ono podstawę 
@@ -51,15 +61,23 @@ utrzymanie ciała od miednicy w górę w jednym miejscu.
 
 &nbsp;
 
-Co z parkami trampolin? Jeśli odwiedzamy je bardzo rzadko w formie rekreacyjnej, a nie treningowej, to będą one dla nas bezpieczne.  Kluczem w odpowiedzi na to pytanie 
+### Co z parkami trampolin?
+
+&nbsp;
+
+Jeśli odwiedzamy je bardzo rzadko w formie rekreacyjnej, a nie treningowej, to będą one dla nas bezpieczne.  Kluczem w odpowiedzi na to pytanie 
 jest częstotliwość. Jeśli nieprawidłowa technika skakania na trampolinie będzie powtarzana często w formie treningu, to na pewno odniesie ona negatywne skutki dla naszego 
 zdrowia.  Jednak sama aktywność fizyczna na trampolinach niesie za sobą wiele pozytywnych aspektów.  Pozytywnie wpływa na uwapnienie kości przez ściskanie osiowe,
 jakie następuje w przypadku takiego treningu. Skakanie spełnia ogromną rolę w przypadku czucia głębokiego, które wspomaga stabilizację stawów.
 
 &nbsp;
 
-Co natomiast z trampolinami ogrodowymi dla dzieci wspomnianymi na samym początku?  Jeśli u dzieci napięcie mięśniowe jest niskie, to taka aktywność jest często zalecana
-przez fizjoterapeutów, ale z wysoką częstotliwością i krótkim czasem trwania, aby nie zmęczyć i nie rozciągnąć nadmiernie mięśni dna miednicy w szczególności dla dziewczynek,
+### Co natomiast z trampolinami ogrodowymi dla dzieci wspomnianymi na samym początku? 
+
+&nbsp;
+
+Jeśli u dzieci napięcie mięśniowe jest niskie, to taka aktywność jest często zalecana przez fizjoterapeutów,
+ale z wysoką częstotliwością i krótkim czasem trwania, aby nie zmęczyć i nie rozciągnąć nadmiernie mięśni dna miednicy w szczególności dla dziewczynek,
 które mają znacznie szersze miednice od chłopców. Biorąc pod uwagę ewentualne ciąże w przyszłości, są bardziej narażone na problemy związane właśnie z obszarem dna miednicy.
 
 &nbsp;

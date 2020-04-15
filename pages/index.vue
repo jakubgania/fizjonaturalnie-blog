@@ -80,6 +80,9 @@
          <a href="https://www.instagram.com/physio_ann/" target="_blank" class="social-icons">
           <font-awesome-icon :icon="['fab', 'instagram']"/>
          </a>
+          <a href="https://www.facebook.com/fizjonaturalnie/" target="_blank" class="social-icons">
+            <font-awesome-icon :icon="['fab', 'facebook-f']"/>
+          </a>
         </div>
       </div>
     </div>

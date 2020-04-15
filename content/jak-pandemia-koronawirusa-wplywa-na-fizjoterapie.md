@@ -9,6 +9,8 @@ tags:
     - pandemia
 ---
 
+&nbsp;
+
 Panująca już od niespełna miesiąca w Polsce pandemia wirusa SARS-CoV-2, który wywołuje chorobę COVID-19 odcisnął już ogromne piętno na gospodarce, całej służbie zdrowia 
 i na ludzkiej psychice. Od ponad 3 tygodni siedzimy w domu pod przymusową kwarantanną po to, by wirus nie rozprzestrzeniał się zbyt szybko. Przyszło to nagle i niespodziewanie. 
 Czy Polska i reszta krajów była na to przygotowana? Odpowiedź jest banalnie prosta - NIE. Żaden z sektorów gospodarki, w tym służba zdrowia nie była w stanie przewidzieć 
@@ -16,7 +18,7 @@ tej katastrofy.
 
 &nbsp;
 
-Silnie dotknięty został również dział rehabilitacji.
+### Silnie dotknięty został również dział rehabilitacji.
 
 &nbsp;
 

@@ -83,6 +83,22 @@
   line-height: 1.6;
   font-size: 16.4px;
 }
+.content ul {
+  list-style: none;
+}
+.content ul li {
+  position: relative;
+}
+.content ul li::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 100%;
+  background: #f06292;
+  position: absolute;
+  top: 10px;
+  left: -18px;
+}
 .content a {
   color: #f06292;
   text-decoration: none;

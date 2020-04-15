@@ -11,7 +11,11 @@ tags:
   - markdown
 ---
 
-Witaj! Dziekuję Ci, że postanowiłaś/eś zajrzeć na moją stronę.   
+&nbsp;
+
+Witaj! Dziekuję Ci, że postanowiłaś/eś zajrzeć na moją stronę. 
+
+&nbsp;
 
 Dlaczego nazwa fizjonaturalnie? Interesuję się fizjoterapią- to naturalne! :-) Tak na poważnie,
 to bardzo lubię tematykę roślinnej i naturalnej pielęgnacji

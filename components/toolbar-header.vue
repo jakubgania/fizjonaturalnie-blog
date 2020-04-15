@@ -1,7 +1,9 @@
 <template>
   <div class="toolbar-header-container">
     <span class="logo">
-      fizjonaturalnie
+      <nuxt-link to="/" style="text-decoration: none;">
+        fizjonaturalnie
+      </nuxt-link>
     </span>
   </div>
 </template>

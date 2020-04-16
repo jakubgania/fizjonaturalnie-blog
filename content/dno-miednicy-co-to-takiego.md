@@ -77,6 +77,6 @@ przez wiele lat ukrywane.
 
 &nbsp;
 
-- [Jak prawidłowo siedzieć?](https://fizjonaturalnie.pl/blog/jak-prawidlowo-siedziec/)
-- [Jak pandemia koronawirusa wpływa na fizjoterapię?](https://fizjonaturalnie.pl/blog/jak-pandemia-koronawirusa-wplywa-na-fizjoterapie/)
-- [Dlaczego skakanie na trampolinie jest szkodliwe?](https://fizjonaturalnie.pl/blog/dlaczego-skakanie-na-trampolinie-jest-szkodliwe/)
+- [Jak prawidłowo siedzieć?](/blog/jak-prawidlowo-siedziec/)
+- [Jak pandemia koronawirusa wpływa na fizjoterapię?](/blog/jak-pandemia-koronawirusa-wplywa-na-fizjoterapie/)
+- [Dlaczego skakanie na trampolinie jest szkodliwe?](/blog/dlaczego-skakanie-na-trampolinie-jest-szkodliwe/)

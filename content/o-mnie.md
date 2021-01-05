@@ -20,7 +20,7 @@ Witaj! Dziekuję Ci, że postanowiłaś/eś zajrzeć na moją stronę.
 Dlaczego nazwa fizjonaturalnie? Interesuję się fizjoterapią- to naturalne! :-) Tak na poważnie,
 to bardzo lubię tematykę roślinnej i naturalnej pielęgnacji
 twarzy i ciała - stąd ten pomysł. Na co dzień pracuję w jednym z punktów francuskiej sieci Yves Rocher, która głównie specjalizuje się w roślinnej 
-pielęgnacji twarzy. Dzięki tej pracy już od dwóch lat stale zagłębiam się w różne triki pielęgnacyjne, z którymi na pewno będę chciała podzielić się
+pielęgnacji twarzy. Dzięki tej pracy już od ponad dwóch lat stale zagłębiam się w różne triki pielęgnacyjne, z którymi na pewno będę chciała podzielić się
 na tym blogu :-).
 
 &nbsp;

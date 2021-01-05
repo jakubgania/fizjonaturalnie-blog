@@ -172,4 +172,14 @@ być otwarte.
 
 Do napisania tego posta zainspirowała mnie świetna książka *Mary Bond "Jak prawidłowo chodzić, stać, siedzieć"* . Autorka jest fizjoterapeutką
 z 35-letnim doświadczeniem, tancerką, terapeutką czaszkowo-krzyżową, rolferką - instruktorką integracji strukturalnej, której uczyła się od 
-dr Idy Rolf. W następnych wspisach również wykorzystam wiedzę zaczerpniętą z jej książki, którą ogromnie polecam każdemu z Was! 
+dr Idy Rolf. W następnych wspisach również wykorzystam wiedzę zaczerpniętą z jej książki, którą ogromnie polecam każdemu z Was!
+
+&nbsp;
+
+### Moje ostatnie posty:
+
+&nbsp;
+
+- [Jak pandemia koronawirusa wpływa na fizjoterapię?](/blog/jak-pandemia-koronawirusa-wplywa-na-fizjoterapie)
+- [Dlaczego skakanie na trampolinie jest szkodliwe?](/blog/dlaczego-skakanie-na-trampolinie-jest-szkodliwe)
+- [O mnie](/blog/o-mnie)

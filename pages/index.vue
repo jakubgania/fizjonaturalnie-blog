@@ -52,6 +52,10 @@
               {{post.attributes.title}}
             </nuxt-link>
           </h2>
+
+          <p style="margin-top: 6px;font-size: 12px;color: #526488;">
+            {{ post.attributes.date }}
+          </p>
               
           <p style="padding-top: 10px;color: #526488;">
             {{ post.attributes.short }}
@@ -77,7 +81,7 @@
           <a href="https://www.linkedin.com/in/anna-maciejewska-7847b0163/" target="_blank" class="social-icons">
             <font-awesome-icon :icon="['fab', 'linkedin-in']"/>
           </a>
-         <a href="https://www.instagram.com/physio_ann/" target="_blank" class="social-icons">
+         <a href="https://www.instagram.com/fizjonaturalnie/" target="_blank" class="social-icons">
           <font-awesome-icon :icon="['fab', 'instagram']"/>
          </a>
           <a href="https://www.facebook.com/fizjonaturalnie/" target="_blank" class="social-icons">
@@ -116,7 +120,7 @@ import profileImage from './../assets/images/hero.jpg'
           {
             hid: 'description',
             name: 'description',
-            content: 'Zapraszam na moją stronę fizjonaturalnie.pl - jest tutaj blog poruszający tematykę fizjoterapii, zdrowia i sportu.'
+            content: 'Znajdziesz tutaj wpisy w tematyce szeroko pojętej fizjoterapii, zdrowia i sportu. Niektóre z nich dotyczą także naturalnej pielęgnacji ciała, ponieważ ten dział jest również w obrębie moich zainteresowań.'
           },
           {
             name: 'keywords',

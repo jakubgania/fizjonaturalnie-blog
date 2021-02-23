@@ -8,19 +8,9 @@
             Cześć!
           </h2>
           <p class="about-me">
-            Nazywam się Anna Maciejewska i na co dzień studiuję fizjoterapię 
-            w formie jednolitych studiów magisterskich na Akademii Wychowania Fizycznego 
-            we Wrocławiu. W przyszłości chcę specjalizować się w uroginekologii. 
-            Bardzo lubię czytać książki o różnej tematyce. Oprócz tego pracuję w jednym z punktów
-            sieci Yves Rocher, a dzięki temu rozwijam swoje zainteresowania w tematyce roślinnej
-            pielęgnacji ciała.
+            Nazywam się Anna Maciejewska i na co dzień studiuję fizjoterapię w formie jednolitych studiów magisterskich na Akademii Wychowania Fizycznego we Wrocławiu. Interesuję się szeroko pojętą rehabilitacją ruchową, fizjoterapią uroginekologiczną i okołoporodową oraz dietetyką. Kieruję się podejściem holistycznym.  
           </p>
           <div class="hashtag-section">
-            <div class="hashtag-item">
-              <span class="hashtag">
-                #fizjoterapia
-              </span>
-            </div>
             <div class="hashtag-item">
               <span class="hashtag">
                 #zdrowie
@@ -28,7 +18,12 @@
             </div>
             <div class="hashtag-item">
               <span class="hashtag">
-                #fitness
+                #fizjoterapia
+              </span>
+            </div>
+            <div class="hashtag-item">
+              <span class="hashtag">
+                #sukces
               </span>
             </div>
           </div>
@@ -46,7 +41,7 @@
         <h2 style="color:#526488;" id="posty">
           Posty:
         </h2>
-        <div v-for="post in posts" :key="post.attributes.title" style="margin-top: 30px;">
+        <div v-for="post in posts" :key="post.attributes.title" class="posts-list">
           <h2 class="post-title-h2">
             <nuxt-link :to="'/blog' + post.attributes.slug" class="post-title">
               {{post.attributes.title}}
@@ -120,7 +115,7 @@ import profileImage from './../assets/images/hero.jpg'
           {
             hid: 'description',
             name: 'description',
-            content: 'Znajdziesz tutaj wpisy w tematyce szeroko pojętej fizjoterapii, zdrowia i sportu. Niektóre z nich dotyczą także naturalnej pielęgnacji ciała, ponieważ ten dział jest również w obrębie moich zainteresowań.'
+            content: 'Zapraszam do śledzenia mojej strony internetowej. Obserwuj bieżące wpisy w temacie zdrowia i fizjoterapii.'
           },
           {
             name: 'keywords',
@@ -184,6 +179,15 @@ body {
 .posts-section {
   margin-top: 80px;
   margin-bottom: 80px;
+}
+.posts-list {
+  margin-top: 30px;
+  padding-bottom: 28px;
+  border-bottom: 1px solid #eaeaea;
+}
+.posts-list:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
 }
 .hashtag {
   font-size: 24px;

@@ -9,7 +9,20 @@
       </h1>
       <div class="date">
           {{post.attributes.date}}
+      </div>
+      <div class="icon-bar">
+        <div style="margin-top: 26px;height:40px;">
+          <a href="https://www.linkedin.com/in/anna-maciejewska-7847b0163/" target="_blank" class="social-icons">
+            <font-awesome-icon :icon="['fab', 'linkedin-in']"/>
+          </a>
+          <a href="https://www.instagram.com/fizjonaturalnie/" target="_blank" class="social-icons">
+          <font-awesome-icon :icon="['fab', 'instagram']"/>
+          </a>
+          <a href="https://www.facebook.com/fizjonaturalnie/" target="_blank" class="social-icons">
+            <font-awesome-icon :icon="['fab', 'facebook-f']"/>
+          </a>
         </div>
+      </div>
       <div style="text-align: center;margin-top:20px;margin-bottom: 20px;">
          <img :src="post.attributes.image" v-if="post.attributes.image" style="width: 100%;">
       </div>
@@ -145,6 +158,38 @@
   letter-spacing: 1.2px;
   transition: letter-spacing 0.2s ease;
 }
+
+.social-icons {
+  color:#000;font-size:24px;margin-left:10px;margin-right:10px;
+}
+.social-icons:hover {
+  color: #808080;
+  transition: color 0.3s ease;
+}
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-100%);
+  left: 10px;
+}
+.icon-bar a {
+  display: block;
+  padding: 4px;
+}
+
+@media only screen and (max-width: 890px) {
+  .icon-bar {
+    position: relative;
+    left: 0;
+    text-align: center;
+    transform: translateY(0);
+  }
+  .icon-bar a {
+    display: inline;
+  }
+}
+
 @media only screen and (max-width: 800px) {
   .container-post {
     padding-left: 20px;

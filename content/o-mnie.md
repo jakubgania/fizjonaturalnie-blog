@@ -13,43 +13,36 @@ tags:
 
 &nbsp;
 
-Witaj! Dziekuję Ci, że postanowiłaś/eś zajrzeć na moją stronę. 
+Witaj! Dziękuję, że postanowiłaś/eś zajrzeć w tą zakładkę. To oznacza, że chcesz wiedzieć o mnie trochę więcej!  
 
 &nbsp;
 
-Dlaczego nazwa fizjonaturalnie? Interesuję się fizjoterapią- to naturalne! :-) Tak na poważnie,
-to bardzo lubię tematykę roślinnej i naturalnej pielęgnacji
-twarzy i ciała - stąd ten pomysł. Na co dzień pracuję w jednym z punktów francuskiej sieci Yves Rocher, która głównie specjalizuje się w roślinnej 
-pielęgnacji twarzy. Dzięki tej pracy już od ponad dwóch lat stale zagłębiam się w różne triki pielęgnacyjne, z którymi na pewno będę chciała podzielić się
-na tym blogu :-).
+Obecnie jestem na 4 roku jednolitych studiów magisterskich na kierunku fizjoterapia w Akademii Wychowania Fizycznego we Wrocławiu.  
+Interesuję się szeroko pojętą rehabilitacją ruchową, terapią manualną, fizjoterapią uroginekologiczną i okołoporodową, dietetyką oraz psychodietetyką. W szczególności intryguje mnie
+wpływ diety i rola aktywności fizycznej na profilaktykę chorób cywilizacyjnych.
 
 &nbsp;
 
-Obecnie jestem w trakcie studiów jednolitych magisterskich na kierunku fizjoterapia na Akademii Wychowania Fizycznego we Wrocławiu. 
-Na co dzień zagłębiam się w tajniki fizjoterapii powiązane z różnorodną tematyką. Jednak już w niedalekiej przyszłości chcę specjalizować się 
-w dziedzinie uroginekologii. Zależy mi na współpracy z kobietami, aby pomagać - jak kobieta kobiecie :-).
+Swoje pierwsze praktyki studenckie odbywałam w przychodni rehabilitacyjnej we Wrocławiu. Prowadziłam tam ćwiczenia ruchowe dla różnych grup pacjentów
+oraz wykonywałam zabiegi z zakresu medycyny fizykalnej. Następnie spore doświadczenie zdobyłam na stażu fizjoterapii za granicą, w ramach programu Erasmus+.
+Tam z kolei pracowałam indywidualnie z pacjentami neurologicznymi. Poszerzałam też swoje umiejętności w medycynie fizykalnej, balneoterapii, a także masażu klasycznym.
+Prowadziłam również fitness i aqua aerobik. Praca tam wyglądała trochę inaczej niż w Polsce, ponieważ wszyscy pacjenci pochodzili z krajów Bliskiego Wschodu,
+stąd tradycje religijne tych osób wprowadzały zmiany w wielu zasadach prowadzenia rehabilitacji. Było to z pewnością ciekawe i niezapomniane doświadczenie.
 
 &nbsp;
 
-Jeśli chodzi o zdobywaną praktykę, uczelnia AWF zapewnia dość sporą ilość godzin pracy z pacjentem w całym okresie studiów. 
-Natomiast zakładam tego bloga w okresie panującej pandemii koronawirusa i studiuję online - tracąc tym samym ogromną ilość praktyki zawodowej. 
-Jednak mam nadzieję, że już w niedalekiej przyszłości wszystko wróci do normy, a kształcenie będzie z powrotem na odpowiednim torze. 
-Na początku studiowania miałam okazję odbyć moją pierwszą, niedługą praktykę w Przychodni Specjalistyczno-Rehabilitacyjnej 
-PULSANTIS we Wrocławiu. Wprowadziła mnie ona w Świat Fizjoterapii. W zeszłym roku, tj. lipiec-sierpień 2019r. skorzystałam z propozycji uczestniczenia 
-w programie ERASMUS+ przez moją uczelnię. Wyjechałam na dwa miesiące do Czech, gdzie odbyłam pierwszy staż fizjoterapii w Tereziny lázně Dubí. 
-To miejsce koncentruje się głównie na leczeniu zaburzeń układu nerwowego, a główną metodą leczenia jest indywidualna terapia. Praca z takimi 
-pacjentami dała mi ogromną dawkę doświadczenia również przez to, że były to osoby z krajów Bliskiego Wschodu (Arabia Saudyjska, Zjednoczone
-Emiraty Arabskie, Katar, Kuwejt, Irak, Iran, Syria). Do tej pory mam kontakt z dwoma moimi pacjentkami, które pochodzą z Arabii Saudyjskiej.
-Natomiast za ogromną dawkę wiedzy jestem wdzięczna całemu zespołowi. Innym pozytywnym aspektem tego wyjazdu było zorganizowanie dla stażystów
-Kurs Kinesiotapingu z Kinesio University Dr. Kenzo Kase w zakresie KT1/KT2 w języku angielskim, dzięki czemu mogę wykorzystywać zdobytą 
-wiedzę do uzupełniania terapii u pacjentów.
+Oprócz praktyki w fizjoterapii, posiadam również kilkuletnie doświadczenie w handlu, promocji produktów kosmetycznych i ścisłej realizacji celów sprzedażowych.
 
 &nbsp;
 
-Swoją wiedzę poszerzam przez uczestniczenie w wielu szkoleniach, webinarach online oraz przez zagłębianie się w wielu interesujących dla mnie książkach 
-i atlasach.  
-Postaram się poruszać ważne tematy dotyczące fizjoterapii, zdrowia, kondycji i aktywności fizycznej, które mam nadzieję będą interesujące dla każdego.  
-Treści na blogu są oparte na mojej zdobytej wiedzy, ale również będę wspomagać się artykułami naukowymi i cennymi książkami.
-Natomiast już w następnym wpisie pokrótce postaram się zawrzeć niezbędne informacje, abyś wiedział/a co tak naprawdę obejmuje dziedzina uroginekologii, którą
-interesuję się najbardziej :-) 
-Pozdrawiam!
+Odbyte kursy i szkolenia:
+
+&nbsp;
+
+- Kurs **Kinesiotaping** w zakresie KT1/KT2 w języku angielskim – organizator Kinesio University Dr. Kenzo Kase
+- Szkolenie **Diagnostyka bólów głowy i postępowanie terapeutyczne** – organizator Fizjopassion Marcel Mieszkalski
+- Kurs **Powięź – krótko i na temat** – organizator Med Coach Marcin Brzozowski
+- Szkolenie **Zaburzenia napięcia mięśniowego u dzieci w wieku przedszkolnym** – organizator Misja Ciocia Magdalena Staszek
+- Szkolenie **Whiplash - Czy to na pewno problem szyi?** – organizator Fizjopassion
+- Szkolenie **Jak wspomóc sen i regenerację** – organizator Sports Webinar Paweł Szewczyk
+- Szkolenie **Żywienie aktywnych kobiet** – organizator Sports Webinar Natalia Palmowska

@@ -1,6 +1,6 @@
 <template>
   <div class="footer-container">
-    &copy; 2020 fizjonaturalnie | <a href="https://jakubgania.io" style="text-decoration:none;color:#0066ff;">jakubgania.io</a>
+    &copy; 2021 fizjonaturalnie | <a href="https://jakubgania.io" style="text-decoration:none;color:#0066ff;">jakubgania.io</a>
   </div>
 </template>
 
